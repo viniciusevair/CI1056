@@ -1,5 +1,5 @@
 # CI1056 - Algoritmos e Estruturas de Dados II
-Repositório de exercícios e trabalhos feitos pelo graduando Vinicius Evair da Silva, no segundo semestre de 2022 para a disciplina CI1001, do curso de Bacharelado em Ciência da Computação.
+Repositório de exercícios e trabalhos feitos pelo graduando Vinicius Evair da Silva, no segundo semestre de 2022 para a disciplina CI1056, do curso de Bacharelado em Ciência da Computação.
 
 Neste repositório encontra-se o seguintes trabalho:
 ## t1 - Algoritmos de Ordenação:
